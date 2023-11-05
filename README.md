@@ -10,3 +10,7 @@ And Column 4 and Column 5 are Name and Sirname.</br>
 Column 5 is Enrollment Number.</br>
 I know this is not so great but as a student It was very exciting for me.</br>
 This Program will be more better in other programming languages, but I was feeling good by making it by C++ and I am working on it's enhancements.
+</br>
+OUTPUT : 
+</br>
+![Username and Password OUTPUT](https://github.com/Param-Sahu/Username_Password/assets/147901491/c63fb04d-2eae-44d3-8d12-304b73365b1f)
